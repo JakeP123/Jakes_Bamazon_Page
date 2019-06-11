@@ -3,8 +3,8 @@ Hey guys, thanks for checking out my Bamazon Shopping page. Let me give you a ru
 ## Instructions
 
 ### Selecting Product
-1.**Using the command line, run "node bamazonCustomer.js"**
-2.**You will be provided a list of available items. You will see the following information**
+1. **Using the command line, run "node bamazonCustomer.js"**
+2. **You will be provided a list of available items. You will see the following information**
 - *Product ID*
 - *Product Name*
 - *Price*
