@@ -5,10 +5,10 @@ Hey guys, thanks for checking out my Bamazon Shopping page. Let me give you a ru
 ### Selecting Product
 1. **Using the command line, run "node bamazonCustomer.js"**
 2. **You will be provided a list of available items. You will see the following information**
-- *Product ID*
-- *Product Name*
-- *Price*
-- *Available Quantity in Stock*
+                    - *Product ID*
+                    - *Product Name*
+                    - *Price*
+                    - *Available Quantity in Stock*
 3) **You will be prompted to enter the item ID for what you would like to buy** 
 2) **The next prompt will ask how many you would like to buy**
 
